@@ -1,0 +1,4 @@
+﻿  ProgrammingLaba2.cpp
+C:\Users\Danee\OneDrive\Рабочий стол\vs\ProgrammingLaba2\ProgrammingLaba2.cpp(11,53): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Danee\OneDrive\Рабочий стол\vs\ProgrammingLaba2\ProgrammingLaba2.cpp(21,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ProgrammingLaba2.vcxproj -> C:\Users\Danee\OneDrive\Рабочий стол\vs\ProgrammingLaba2\Debug\ProgrammingLaba2.exe
