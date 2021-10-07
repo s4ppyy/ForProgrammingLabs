@@ -1,0 +1,3 @@
+C:/Users/Danee/CLionProjects/Programming4/cmake-build-debug/CMakeFiles/Programming4.dir
+C:/Users/Danee/CLionProjects/Programming4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Danee/CLionProjects/Programming4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
