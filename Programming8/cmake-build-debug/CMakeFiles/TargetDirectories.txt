@@ -1,0 +1,3 @@
+C:/Users/Danee/CLionProjects/Programming8/cmake-build-debug/CMakeFiles/Programming8.dir
+C:/Users/Danee/CLionProjects/Programming8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Danee/CLionProjects/Programming8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
