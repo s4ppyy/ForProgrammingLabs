@@ -1,5 +1,21 @@
 #include <stdio.h>
 
+void SimpleNumbers(int number){
+    for (int check = 2; check <= number; check++)
+    {
+        for (int i = 2; i <= check; i++)
+        {
+            if (check == i)
+            {
+                printf("%d ", check);
+                break;
+            }
+            else if (check % i == 0)
+                break;
+        }
+    }
+}
+
 int main() {
     int talkLength, basicPayment, overPayment, totalPayment;
     printf("Insert minutes: \n");
@@ -16,11 +32,6 @@ int main() {
     int randomNumber;
     printf("Insert your number: \n");
     scanf("%d", &randomNumber);
-    if (randomNumber >= 2)
-        for (int i = 2; i <= randomNumber; ++i)
-            printf("%d ", i);
-    else
-        for (int i = 2; i >= randomNumber; --i)
-            printf("%d ", i);
+    SimpleNumbers(randomNumber);
     return 0;
 }
